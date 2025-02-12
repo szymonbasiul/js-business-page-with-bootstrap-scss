@@ -47,6 +47,13 @@ nav {
 
 	.navbar-brand {
 		font-weight: bold;
+		transition: color 0.3s;
+		&:focus {
+			color: $white;
+		}
+		&:hover {
+			color: $main-color;
+		}
 	}
 
 	.nav-link,
