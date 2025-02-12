@@ -2,7 +2,7 @@
 
 ## Demo
 
-
+https://szymonbasiul.github.io/js-business-page-with-bootstrap-scss/
 
 ## 1. Project Description
 
