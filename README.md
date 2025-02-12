@@ -1,5 +1,7 @@
 # Technical Documentation for ProGamers Website
 
+<img src="/img/demo.png" alt="Project Screenshot" style="max-width: 100%;">
+
 ## Demo
 
 https://szymonbasiul.github.io/js-business-page-with-bootstrap-scss/
